@@ -13,12 +13,18 @@ body {
 
 header{
   margin: 2%;
+}
 
+header p{
+  margin-top: 2%;
+  margin-left: 5%;
+}
+header h1{
+  margin-bottom: 0;
 }
 
 footer{
   margin: 2%;
-  padding-top: 50px;
   font-size: .75em;
   text-align: center;
 }
@@ -32,10 +38,16 @@ footer{
 
 .homepage-boxes{
   margin: 2%;
-  padding: 0 2% 2% 2%;
+  padding: 2%;
   color: rgb( 47, 45, 47);
   background-color: rgb(223,223,223);
   border-radius: 10px;
+}
+
+.box-images{
+  display: block;
+  width: 90%;
+  margin: 2% auto 0 auto;
 }
 
 /* styles for menu */
