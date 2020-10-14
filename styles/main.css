@@ -36,6 +36,11 @@ footer{
   font-size: 1.5em;
 }
 
+.homepage-boxesgroup{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .homepage-boxes{
   margin: 2%;
   padding: 2%;
@@ -49,6 +54,17 @@ footer{
   width: 90%;
   margin: 2% auto 0 auto;
 }
+
+/* media queries for body */
+
+@media screen and (min-width: 415) {
+
+}
+
+@media screen and (min-width: 768) {
+
+}
+
 
 /* styles for menu */
 
