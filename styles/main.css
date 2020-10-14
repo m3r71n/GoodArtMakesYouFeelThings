@@ -1,3 +1,5 @@
+@import "normalize.css";
+
 body {
   color: rgb(223,223,223);
   font-family: sans-serif;
@@ -5,11 +7,6 @@ body {
   margin: auto;
 }
 
-.wrapper{
-  min-height: 100%;
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-}
 
 header{
   margin: 2%;
@@ -53,16 +50,6 @@ footer{
   display: block;
   width: 90%;
   margin: 2% auto 0 auto;
-}
-
-/* media queries for body */
-
-@media screen and (min-width: 415) {
-
-}
-
-@media screen and (min-width: 768) {
-
 }
 
 
@@ -115,4 +102,22 @@ footer{
     top: 20px;
     right: 45px;
     font-size: 60px;
+  }
+
+  /* media queries for body */
+
+  @media screen and (min-width: 600px) {
+    .homepage-boxes{
+      width: 40%;
+    }
+  }
+
+  @media screen and (min-width: 1000px) {
+    .homepage-boxes{
+      width: 17%;
+    }
+    .homepage-boxesgroup{
+      flex-wrap: nowrap;
+      align-items: stretch;
+    }
   }
