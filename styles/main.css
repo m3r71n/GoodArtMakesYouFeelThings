@@ -57,6 +57,11 @@ footer{
   margin: 2% auto 0 auto;
 }
 
+.callForEntry{
+  width: 90%;
+  margin: auto;
+}
+
 a:link {
   text-decoration: none;
   color: inherit;
