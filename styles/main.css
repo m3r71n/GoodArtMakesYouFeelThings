@@ -34,6 +34,10 @@ footer{
   font-size: 1.5em;
 }
 
+.wrapper{
+  min-height: calc(100vh - 100px);
+}
+
 .homepage-boxesgroup{
   display: flex;
   flex-wrap: wrap;
