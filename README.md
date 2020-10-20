@@ -1,6 +1,7 @@
 # GoodArtMakesYouFeelThings
 
 Good Art Makes You Feel Things
+Link to the project live on the internet: https://m3r71n.github.io/GoodArtMakesYouFeelThings/
 ​
 <!-- Write a brief description of your project here. What does it do? What kind of information does it have? -->
 ​
@@ -8,9 +9,9 @@ Good Art Makes You Feel Things
 ​
 <!-- List the 3 optional features, or more if you used more, that you chose to use and where they are incorporated to help mentors find them. -->
 ​
-1. Feature 1 - Where it is used in your site.
-2. Feature 2 - Where it is used in your site.
-3. Feature 3 - Where it is used in your site.
+1. Hamburger menu - used for the site menu on all pages.
+2. Flexbox - For responsive boxes on the home page.
+3. Use JS to hide parts of the page and make them appear on click - modals on gallery page to display full images.
 ​
 # Special Instructions
 ​
