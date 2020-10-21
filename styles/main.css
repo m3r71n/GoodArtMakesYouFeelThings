@@ -23,7 +23,6 @@ header h1{
 
 .mainfooter{
   margin: 2%;
-  font-size: .75em;
   text-align: center;
 }
 
@@ -35,7 +34,8 @@ header h1{
 }
 
 .wrapper{
-  min-height: calc(100vh - 100px);
+  min-height: calc(100vh - 200px);
+  margin-bottom: 100px;
 }
 
 .homepage-boxesgroup{
