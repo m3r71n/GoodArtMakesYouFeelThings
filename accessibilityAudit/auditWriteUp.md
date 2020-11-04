@@ -8,4 +8,4 @@ Contrast is found to be excellent. The ratio is 10.25:1 and passes both the smal
 
 Overall, this site makes use of header sizes, alt text on all images, and fallbacks that keeps all content displayed in case CSS or Javascript are turned off. This keeps all content accessible no matter what the user needs.
 
-Screen captures of the WAVE audit are available within the same folder as this audit.
+Screen captures of the WAVE audit are available within the same folder as this audit writeup.
