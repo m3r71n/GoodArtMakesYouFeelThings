@@ -31,24 +31,26 @@
     </header>
 
 
-    <form class="ContactForm" method="post" onsubmit="onSubmitFunction(event)">
-      <label for="firstName">First name:</label><br>
-      <input type="text" id="firstName" name="firstName" required><br>
-      <label for="lastName">Last name:</label><br>
-      <input type="text" id="lastName" name="lastName"required><br>
-      <label for="email">Email email@email.com:</label><br>
-      <input type="email" id="email" name="email" required><br>
-      <label for="phone">Phone Number format 555-555-5555:</label><br>
-      <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
-      <br><br>
-      <textarea name="message" rows="10" cols="30" required></textarea><br>
-      <input type="submit" value="Submit">
-      <input type="reset" value="reset">
-    </form>
-    <p class="mainContent">If you prefer you can also contact us at <a href="mailto:goodartmakesyoufeelthings@gmail.com">goodartmakesyoufeelthings@gmail.com</a></p>
-    <script type="text/javascript" src="scripts/contactAlert.js">
+      <form class="ContactForm" method="post" onsubmit="onSubmitFunction(event)">
+        <label for="firstName">First name:</label><br>
+        <input type="text" id="firstName" name="firstName" required><br>
+        <label for="lastName">Last name:</label><br>
+        <input type="text" id="lastName" name="lastName"required><br>
+        <label for="email">Email format email@email.com:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        <label for="phone">Phone Number format 555-555-5555:</label><br>
+        <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+        <br><br>
+        <label for="message">Send us your thoughts:</label><br>
+        <textarea name="message" rows="10" cols="30" required></textarea><br>
+        <input type="submit" value="Submit">
+        <input type="reset" value="reset">
+      </form>
+      <p class="mainContent">If you prefer you can also contact us at <a href="mailto:goodartmakesyoufeelthings@gmail.com">goodartmakesyoufeelthings@gmail.com</a></p>
+      <script type="text/javascript" src="scripts/contactAlert.js">
 
-    </script>
+      </script>
+
   </div>
 
   <footer>
