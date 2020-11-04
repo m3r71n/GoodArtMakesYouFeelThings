@@ -12,7 +12,8 @@ This project is an online art gallery to host and display the works of various a
 1. Hamburger menu - used for the site menu on all pages.
 2. Flexbox - For responsive boxes on the home page. Flexbox is also used to display the boxes for the artworks on the gallery page.
 3. Use JS to hide parts of the page and make them appear on click - modals on gallery page to display full images.
-4. Create a form (such as a ‘Contact Us’ form), validate at least 1 input (example, ensure email is in the proper format), and then use that information on your page somehow– on contact page, the confirmation alert message serves the first name back to the person filling out the form.
+4. Create a form (such as a ‘Contact Us’ form), validate at least 1 input (example, ensure email is in the proper format), and then use that information on your page somehow – on contact page, the confirmation alert message serves the first name back to the person filling out the form.
+5. Perform a Web Accessibility Compliance review – a WAVE audit is available in the folder accessibilityAudit for this project.
 ​
 # Special Instructions
 ​
