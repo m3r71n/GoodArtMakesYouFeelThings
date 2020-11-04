@@ -62,6 +62,31 @@ header h1{
   margin: auto;
 }
 
+.ContactForm{
+  margin: 10% 2%;
+}
+
+.mainContent{
+  margin: 2%;
+  padding: 2%;
+  color: rgb( 47, 45, 47);
+  background-color: rgb(223,223,223);
+  border-radius: 10px;
+}
+
+form input, form textarea{
+  margin: 2%;
+  border-radius: 10px;
+}
+
+form label{
+  padding: 1%;
+  margin: 1%;
+  color: rgb( 47, 45, 47);
+  background-color: rgb(223,223,223);
+  border-radius: 10px;
+}
+
 a:link {
   text-decoration: none;
   color: inherit;
