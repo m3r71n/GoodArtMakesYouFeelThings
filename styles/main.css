@@ -78,6 +78,7 @@ form input, form textarea{
   margin: 2%;
   padding: 1%;
   border-radius: 10px;
+  border: none;
 }
 
 form label{
